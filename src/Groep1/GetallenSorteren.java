@@ -15,6 +15,7 @@ public class GetallenSorteren {
 	
 	public static int[] tabelSorteren(int[] lijst){
 		int kleinste;
+		double precies;
     	int indexkleinste;
     	int huidigepositie; 
 		 for(huidigepositie = 0; huidigepositie < lijst.length; huidigepositie++) { 
