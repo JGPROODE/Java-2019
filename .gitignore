@@ -1,0 +1,9 @@
+#bestanden die moeten worden genegeerd
+/bin/
+
+.project
+.classpath
+
+
+#voor nb of intelliJ
+.idea
