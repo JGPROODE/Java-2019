@@ -11,7 +11,8 @@ public class GetallenSorteren {
 		}
 	}
 	
-	
+	//regel14 dit is dus de test
+	//heb branch aangemaakt en via eclipse een commit gedaan
 	
 	public static int[] tabelSorteren(int[] lijst){
 		int kleinste;
